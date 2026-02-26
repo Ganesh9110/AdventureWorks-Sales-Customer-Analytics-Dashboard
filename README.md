@@ -152,7 +152,7 @@ Microsoft Excel / CSV files
 
 ❓ Problem
 
-The business lacked a centralized and interactive view to monitor sales performance, customer behavior, product profitability, returns, and regional trends across multiple years.
+The business lacked a centralized and interactive view to monitor sales performance, customer behavior, product profitability, returns and regional trends across multiple years.
 
 Data was spread across multiple tables, making it difficult for stakeholders to quickly identify insights and make data-driven decisions.
 
